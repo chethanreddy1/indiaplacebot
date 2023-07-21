@@ -1,3 +1,5 @@
+username=''
+password=''
 
 import requests
 from requests import Session, auth
